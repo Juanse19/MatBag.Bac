@@ -3,9 +3,9 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Bundle.netcore.iot" expanded="True" selected="True">
-            <Node name="Common" expanded="True">
-              <Node name="Common.DataAccess.EFCore" expanded="True" />
+          <Node name="Bundle.netcore.iot" expanded="True">
+            <Node name="IoT" expanded="True">
+              <Node name="IoT.Entities" expanded="True" />
             </Node>
           </Node>
         </State>
