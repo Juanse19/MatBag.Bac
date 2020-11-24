@@ -1,0 +1,8 @@
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/bin/Release/netstandard2.0/Common.Entities.deps.json
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/bin/Release/netstandard2.0/Common.Entities.dll
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/bin/Release/netstandard2.0/Common.Entities.pdb
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/obj/Release/netstandard2.0/Common.Entities.AssemblyInfoInputs.cache
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/obj/Release/netstandard2.0/Common.Entities.AssemblyInfo.cs
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/obj/Release/netstandard2.0/Common.Entities.csproj.CoreCompileInputs.cache
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/obj/Release/netstandard2.0/Common.Entities.dll
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/obj/Release/netstandard2.0/Common.Entities.pdb

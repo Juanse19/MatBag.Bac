@@ -1,0 +1,9 @@
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/bin/Debug/netstandard2.0/Common.DTO.deps.json
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/bin/Debug/netstandard2.0/Common.DTO.dll
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/bin/Debug/netstandard2.0/Common.DTO.pdb
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/obj/Debug/netstandard2.0/Common.DTO.csprojAssemblyReference.cache
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/obj/Debug/netstandard2.0/Common.DTO.AssemblyInfoInputs.cache
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/obj/Debug/netstandard2.0/Common.DTO.AssemblyInfo.cs
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/obj/Debug/netstandard2.0/Common.DTO.csproj.CoreCompileInputs.cache
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/obj/Debug/netstandard2.0/Common.DTO.dll
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/obj/Debug/netstandard2.0/Common.DTO.pdb

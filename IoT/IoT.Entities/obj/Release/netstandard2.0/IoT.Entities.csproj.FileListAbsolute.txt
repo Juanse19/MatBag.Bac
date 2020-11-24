@@ -1,0 +1,12 @@
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/bin/Release/netstandard2.0/IoT.Entities.deps.json
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/bin/Release/netstandard2.0/IoT.Entities.dll
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/bin/Release/netstandard2.0/IoT.Entities.pdb
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/bin/Release/netstandard2.0/Common.Entities.dll
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/bin/Release/netstandard2.0/Common.Entities.pdb
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/obj/Release/netstandard2.0/IoT.Entities.csprojAssemblyReference.cache
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/obj/Release/netstandard2.0/IoT.Entities.AssemblyInfoInputs.cache
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/obj/Release/netstandard2.0/IoT.Entities.AssemblyInfo.cs
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/obj/Release/netstandard2.0/IoT.Entities.csproj.CoreCompileInputs.cache
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/obj/Release/netstandard2.0/IoT.Entities.csproj.CopyComplete
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/obj/Release/netstandard2.0/IoT.Entities.dll
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/obj/Release/netstandard2.0/IoT.Entities.pdb

@@ -1,0 +1,11 @@
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/bin/Release/netstandard2.0/IoT.DTO.deps.json
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/bin/Release/netstandard2.0/IoT.DTO.dll
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/bin/Release/netstandard2.0/IoT.DTO.pdb
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/bin/Release/netstandard2.0/Common.DTO.dll
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/bin/Release/netstandard2.0/Common.DTO.pdb
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/obj/Release/netstandard2.0/IoT.DTO.AssemblyInfoInputs.cache
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/obj/Release/netstandard2.0/IoT.DTO.AssemblyInfo.cs
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/obj/Release/netstandard2.0/IoT.DTO.csproj.CoreCompileInputs.cache
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/obj/Release/netstandard2.0/IoT.DTO.csproj.CopyComplete
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/obj/Release/netstandard2.0/IoT.DTO.dll
+/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/obj/Release/netstandard2.0/IoT.DTO.pdb

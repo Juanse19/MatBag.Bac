@@ -1,0 +1,69 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DIContainerCore/IoT.DIContainerCore.csproj",
+    "projectName": "IoT.DIContainerCore",
+    "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DIContainerCore/IoT.DIContainerCore.csproj",
+    "outputPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DIContainerCore/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DataAccess.EFCore/IoT.DataAccess.EFCore.csproj": {
+            "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DataAccess.EFCore/IoT.DataAccess.EFCore.csproj"
+          },
+          "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Services.Infrastructure/IoT.Services.Infrastructure.csproj": {
+            "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Services.Infrastructure/IoT.Services.Infrastructure.csproj"
+          },
+          "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Services/IoT.Services.csproj": {
+            "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Services/IoT.Services.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[3.1.2, )"
+        },
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[3.1.2, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.WebApiCore/Common.WebApiCore.csproj",
+    "projectName": "Common.WebApiCore",
+    "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.WebApiCore/Common.WebApiCore.csproj",
+    "outputPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.WebApiCore/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/Common.DTO.csproj": {
+            "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/Common.DTO.csproj"
+          },
+          "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/Common.Entities.csproj": {
+            "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/Common.Entities.csproj"
+          },
+          "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Services.Infrastructure/Common.Services.Infrastructure.csproj": {
+            "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Services.Infrastructure/Common.Services.Infrastructure.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "AutoMapper": {
+          "target": "Package",
+          "version": "[8.0.0, )"
+        },
+        "Microsoft.AspNetCore.Authentication.JwtBearer": {
+          "target": "Package",
+          "version": "[3.1.2, )"
+        },
+        "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+          "target": "Package",
+          "version": "[3.1.2, )"
+        },
+        "Microsoft.AspNetCore.StaticFiles": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.IdentityModel.Tokens": {
+          "target": "Package",
+          "version": "[5.6.0, )"
+        },
+        "Serilog.AspNetCore": {
+          "target": "Package",
+          "version": "[3.2.0, )"
+        },
+        "Serilog.Sinks.MSSqlServer": {
+          "target": "Package",
+          "version": "[5.1.3, )"
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[5.0.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+    }
+  }
+}
