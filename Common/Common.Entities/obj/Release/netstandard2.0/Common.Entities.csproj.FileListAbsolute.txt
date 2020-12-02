@@ -9,7 +9,6 @@
 C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Entities\bin\Release\netstandard2.0\Common.Entities.deps.json
 C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Entities\bin\Release\netstandard2.0\Common.Entities.dll
 C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Entities\bin\Release\netstandard2.0\Common.Entities.pdb
-C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.csprojAssemblyReference.cache
 C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.AssemblyInfoInputs.cache
 C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.AssemblyInfo.cs
 C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Entities\obj\Release\netstandard2.0\Common.Entities.csproj.CoreCompileInputs.cache
