@@ -14,3 +14,19 @@
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.WebApiCore/obj/Release/netcoreapp3.1/Common.WebApiCore.csproj.CopyComplete
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.WebApiCore/obj/Release/netcoreapp3.1/Common.WebApiCore.dll
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.WebApiCore/obj/Release/netcoreapp3.1/Common.WebApiCore.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\bin\Release\netcoreapp3.1\Common.WebApiCore.deps.json
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\bin\Release\netcoreapp3.1\Common.WebApiCore.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\bin\Release\netcoreapp3.1\Common.WebApiCore.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\bin\Release\netcoreapp3.1\Common.DTO.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\bin\Release\netcoreapp3.1\Common.Entities.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\bin\Release\netcoreapp3.1\Common.Services.Infrastructure.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\bin\Release\netcoreapp3.1\Common.DTO.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\bin\Release\netcoreapp3.1\Common.Entities.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\bin\Release\netcoreapp3.1\Common.Services.Infrastructure.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\obj\Release\netcoreapp3.1\Common.WebApiCore.csprojAssemblyReference.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\obj\Release\netcoreapp3.1\Common.WebApiCore.AssemblyInfoInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\obj\Release\netcoreapp3.1\Common.WebApiCore.AssemblyInfo.cs
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\obj\Release\netcoreapp3.1\Common.WebApiCore.csproj.CoreCompileInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\obj\Release\netcoreapp3.1\Common.WebApiCore.csproj.CopyComplete
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\obj\Release\netcoreapp3.1\Common.WebApiCore.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.WebApiCore\obj\Release\netcoreapp3.1\Common.WebApiCore.pdb

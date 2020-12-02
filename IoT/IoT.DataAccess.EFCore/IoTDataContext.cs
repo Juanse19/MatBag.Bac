@@ -7,6 +7,7 @@
 using Common.DataAccess.EFCore;
 using Common.DataAccess.EFCore.Configuration;
 using IoT.Entities;
+using IoT.Entities.Models;
 using IoT.Entities.System;
 using Microsoft.EntityFrameworkCore;
 
@@ -27,7 +28,28 @@ namespace IoT.DataAccess.EFCore
         public DbSet<DeviceParameter> DeviceParameters { get; set; }
         public DbSet<ContactPhoto> ContactPhotos { get; set; }
 
+        public virtual DbSet<airline_list> AirlineList { get; set; }
+        public virtual DbSet<BhsAlarms> bhs_alarms { get; set; }
+        public virtual DbSet<BhsAtr> BhsAtr { get; set; }
+        public DbSet<BhsBpi> BhsBpi { get; set; }
+        public DbSet<BhsConveyorInfo> BhsConveyorInfo { get; set; }
+        public DbSet<BhsConveyorState> BhsConveyorState { get; set; }
+        public DbSet<BhsConveyors> BhsConveyors { get; set; }
+        public DbSet<BhsCounters> BhsCounters { get; set; }
+        public DbSet<BhsDashboardV2> BhsDashboardV2 { get; set; }
+        public DbSet<BhsLog> BhsLog { get; set; }
+        public DbSet<BhsVariableState> BhsVariableState { get; set; }
+        public DbSet<Carruseles> Carruseles { get; set; }
+
         public IoTDataContext(DbContextOptions<IoTDataContext> options) : base(options) { }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer("Server=10.100.22.48;Database=IotMat;Trusted_Connection=True;");
+            }
+        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -47,6 +69,7 @@ namespace IoT.DataAccess.EFCore
             modelBuilder.ApplyConfiguration(new TrafficConsumptionConfig());
             modelBuilder.ApplyConfiguration(new ContactPhotoConfig());
 
+          
             modelBuilder.HasDefaultSchema("iot_core");
         }
     }

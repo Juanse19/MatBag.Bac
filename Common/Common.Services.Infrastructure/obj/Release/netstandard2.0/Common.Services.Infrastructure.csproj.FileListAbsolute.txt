@@ -12,3 +12,17 @@
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Services.Infrastructure/obj/Release/netstandard2.0/Common.Services.Infrastructure.csproj.CopyComplete
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Services.Infrastructure/obj/Release/netstandard2.0/Common.Services.Infrastructure.dll
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Services.Infrastructure/obj/Release/netstandard2.0/Common.Services.Infrastructure.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Services.Infrastructure\bin\Release\netstandard2.0\Common.Services.Infrastructure.deps.json
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Services.Infrastructure\bin\Release\netstandard2.0\Common.Services.Infrastructure.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Services.Infrastructure\bin\Release\netstandard2.0\Common.Services.Infrastructure.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Services.Infrastructure\bin\Release\netstandard2.0\Common.DTO.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Services.Infrastructure\bin\Release\netstandard2.0\Common.Entities.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Services.Infrastructure\bin\Release\netstandard2.0\Common.DTO.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Services.Infrastructure\bin\Release\netstandard2.0\Common.Entities.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Services.Infrastructure\obj\Release\netstandard2.0\Common.Services.Infrastructure.csprojAssemblyReference.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Services.Infrastructure\obj\Release\netstandard2.0\Common.Services.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Services.Infrastructure\obj\Release\netstandard2.0\Common.Services.Infrastructure.AssemblyInfo.cs
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Services.Infrastructure\obj\Release\netstandard2.0\Common.Services.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Services.Infrastructure\obj\Release\netstandard2.0\Common.Services.Infrastructure.csproj.CopyComplete
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Services.Infrastructure\obj\Release\netstandard2.0\Common.Services.Infrastructure.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Services.Infrastructure\obj\Release\netstandard2.0\Common.Services.Infrastructure.pdb

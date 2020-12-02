@@ -5,7 +5,7 @@ namespace IoT.Entities.Matbag
     {
         public string conveyor { get; set; }
         public string ubication { get; set; }
-        public Nullable<int> duracionParo { get; set; }
+        public int? duracionParo { get; set; }
         public string Estado { get; set; }
     }
 }

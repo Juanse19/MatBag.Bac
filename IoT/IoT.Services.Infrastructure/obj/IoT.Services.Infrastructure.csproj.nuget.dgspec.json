@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Services.Infrastructure/IoT.Services.Infrastructure.csproj": {}
+    "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.Services.Infrastructure\\IoT.Services.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/Common.DTO.csproj": {
+    "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\Common\\Common.DTO\\Common.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/Common.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\Common\\Common.DTO\\Common.DTO.csproj",
         "projectName": "Common.DTO",
-        "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/Common.DTO.csproj",
-        "packagesPath": "/Users/sebastianlosada/.nuget/packages/",
-        "outputPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/obj/",
+        "projectPath": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\Common\\Common.DTO\\Common.DTO.csproj",
+        "packagesPath": "C:\\Users\\mladmin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\Common\\Common.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/sebastianlosada/.config/NuGet/NuGet.Config"
+          "C:\\Users\\mladmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,29 +60,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/Common.Entities.csproj": {
+    "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\Common\\Common.Entities\\Common.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/Common.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\Common\\Common.Entities\\Common.Entities.csproj",
         "projectName": "Common.Entities",
-        "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/Common.Entities.csproj",
-        "packagesPath": "/Users/sebastianlosada/.nuget/packages/",
-        "outputPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/obj/",
+        "projectPath": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\Common\\Common.Entities\\Common.Entities.csproj",
+        "packagesPath": "C:\\Users\\mladmin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\Common\\Common.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/sebastianlosada/.config/NuGet/NuGet.Config"
+          "C:\\Users\\mladmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -116,37 +120,39 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/IoT.DTO.csproj": {
+    "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.DTO\\IoT.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/IoT.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.DTO\\IoT.DTO.csproj",
         "projectName": "IoT.DTO",
-        "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/IoT.DTO.csproj",
-        "packagesPath": "/Users/sebastianlosada/.nuget/packages/",
-        "outputPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/obj/",
+        "projectPath": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.DTO\\IoT.DTO.csproj",
+        "packagesPath": "C:\\Users\\mladmin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/sebastianlosada/.config/NuGet/NuGet.Config"
+          "C:\\Users\\mladmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/Common.DTO.csproj": {
-                "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/Common.DTO.csproj"
+              "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\Common\\Common.DTO\\Common.DTO.csproj": {
+                "projectPath": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\Common\\Common.DTO\\Common.DTO.csproj"
               }
             }
           }
@@ -178,37 +184,39 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/IoT.Entities.csproj": {
+    "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.Entities\\IoT.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/IoT.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.Entities\\IoT.Entities.csproj",
         "projectName": "IoT.Entities",
-        "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/IoT.Entities.csproj",
-        "packagesPath": "/Users/sebastianlosada/.nuget/packages/",
-        "outputPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/obj/",
+        "projectPath": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.Entities\\IoT.Entities.csproj",
+        "packagesPath": "C:\\Users\\mladmin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/sebastianlosada/.config/NuGet/NuGet.Config"
+          "C:\\Users\\mladmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/Common.Entities.csproj": {
-                "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Entities/Common.Entities.csproj"
+              "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\Common\\Common.Entities\\Common.Entities.csproj": {
+                "projectPath": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\Common\\Common.Entities\\Common.Entities.csproj"
               }
             }
           }
@@ -240,40 +248,42 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Services.Infrastructure/IoT.Services.Infrastructure.csproj": {
+    "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.Services.Infrastructure\\IoT.Services.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Services.Infrastructure/IoT.Services.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.Services.Infrastructure\\IoT.Services.Infrastructure.csproj",
         "projectName": "IoT.Services.Infrastructure",
-        "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Services.Infrastructure/IoT.Services.Infrastructure.csproj",
-        "packagesPath": "/Users/sebastianlosada/.nuget/packages/",
-        "outputPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Services.Infrastructure/obj/",
+        "projectPath": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.Services.Infrastructure\\IoT.Services.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mladmin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.Services.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/sebastianlosada/.config/NuGet/NuGet.Config"
+          "C:\\Users\\mladmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/IoT.DTO.csproj": {
-                "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/IoT.DTO.csproj"
+              "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.DTO\\IoT.DTO.csproj": {
+                "projectPath": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.DTO\\IoT.DTO.csproj"
               },
-              "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/IoT.Entities.csproj": {
-                "projectPath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/IoT.Entities.csproj"
+              "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.Entities\\IoT.Entities.csproj": {
+                "projectPath": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.Entities\\IoT.Entities.csproj"
               }
             }
           }
@@ -309,7 +319,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

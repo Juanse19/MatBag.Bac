@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+H2EWrWY2VM5dxGTbkDeK+3qC4UZIaVC+ZyQwTGLhdVqX3aQPiedaRGosgb6AndhplMkRB9vw554CNwQW3n2lg==",
+  "dgSpecHash": "A4r6e8pMiaWdZoM4luY5trBXR+qXG3pzLgtG9Z/YX+5k22QeiY/soOvSYoP20htSsVX3LhHSeJvXedSrALR/rg==",
   "success": true,
-  "projectFilePath": "/Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Entities/IoT.Entities.csproj",
+  "projectFilePath": "C:\\Users\\mladmin\\Documents\\New folder\\MatBag.Backend\\IoT\\IoT.Entities\\IoT.Entities.csproj",
   "expectedPackageFiles": [
-    "/Users/sebastianlosada/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

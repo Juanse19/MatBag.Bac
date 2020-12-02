@@ -14,3 +14,19 @@
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DataAccess.EFCore/obj/Debug/netcoreapp3.1/Common.DataAccess.EFCore.csproj.CopyComplete
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DataAccess.EFCore/obj/Debug/netcoreapp3.1/Common.DataAccess.EFCore.dll
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DataAccess.EFCore/obj/Debug/netcoreapp3.1/Common.DataAccess.EFCore.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.DataAccess.EFCore.deps.json
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.DataAccess.EFCore.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.DataAccess.EFCore.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.DTO.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.Entities.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.Services.Infrastructure.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.Services.Infrastructure.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.Entities.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.DTO.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\obj\Debug\netcoreapp3.1\Common.DataAccess.EFCore.csprojAssemblyReference.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\obj\Debug\netcoreapp3.1\Common.DataAccess.EFCore.AssemblyInfoInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\obj\Debug\netcoreapp3.1\Common.DataAccess.EFCore.AssemblyInfo.cs
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\obj\Debug\netcoreapp3.1\Common.DataAccess.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\obj\Debug\netcoreapp3.1\Common.DataAccess.EFCore.csproj.CopyComplete
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\obj\Debug\netcoreapp3.1\Common.DataAccess.EFCore.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DataAccess.EFCore\obj\Debug\netcoreapp3.1\Common.DataAccess.EFCore.pdb

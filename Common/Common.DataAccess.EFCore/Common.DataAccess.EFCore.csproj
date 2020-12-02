@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Common.DataAccess.EFCore</AssemblyName>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Common.DataAccess.EFCore</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

@@ -9,7 +9,7 @@ namespace IoT.Entities.Matbag
         public int id { get; set; }
         public int idConveyors { get; set; }
         public string aux { get; set; }
-        public Nullable<DateTime> DateRegister { get; set; }
+        public DateTime? DateRegister { get; set; }
     
     }
 }

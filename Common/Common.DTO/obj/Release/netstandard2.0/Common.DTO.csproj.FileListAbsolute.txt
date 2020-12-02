@@ -7,3 +7,12 @@
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/obj/Release/netstandard2.0/Common.DTO.csproj.CoreCompileInputs.cache
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/obj/Release/netstandard2.0/Common.DTO.dll
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.DTO/obj/Release/netstandard2.0/Common.DTO.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DTO\bin\Release\netstandard2.0\Common.DTO.deps.json
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DTO\bin\Release\netstandard2.0\Common.DTO.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DTO\bin\Release\netstandard2.0\Common.DTO.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DTO\obj\Release\netstandard2.0\Common.DTO.csprojAssemblyReference.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DTO\obj\Release\netstandard2.0\Common.DTO.AssemblyInfoInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DTO\obj\Release\netstandard2.0\Common.DTO.AssemblyInfo.cs
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DTO\obj\Release\netstandard2.0\Common.DTO.csproj.CoreCompileInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DTO\obj\Release\netstandard2.0\Common.DTO.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.DTO\obj\Release\netstandard2.0\Common.DTO.pdb

@@ -5,8 +5,8 @@ namespace IoT.Entities.Matbag
     {
         public string Description { get; set; }
         public string State { get; set; }
-        public Nullable<double> Potencia { get; set; }
-        public Nullable<int> TimeOn { get; set; }
-        public Nullable<int> TimeOff { get; set; }
+        public double? Potencia { get; set; }
+        public int? TimeOn { get; set; }
+        public int? TimeOff { get; set; }
     }
 }

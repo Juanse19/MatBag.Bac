@@ -10,3 +10,15 @@
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/obj/Debug/netstandard2.0/IoT.DTO.csproj.CopyComplete
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/obj/Debug/netstandard2.0/IoT.DTO.dll
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DTO/obj/Debug/netstandard2.0/IoT.DTO.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DTO\bin\Debug\netstandard2.0\IoT.DTO.deps.json
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DTO\bin\Debug\netstandard2.0\IoT.DTO.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DTO\bin\Debug\netstandard2.0\IoT.DTO.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DTO\bin\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DTO\bin\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DTO\obj\Debug\netstandard2.0\IoT.DTO.csprojAssemblyReference.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DTO\obj\Debug\netstandard2.0\IoT.DTO.AssemblyInfoInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DTO\obj\Debug\netstandard2.0\IoT.DTO.AssemblyInfo.cs
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DTO\obj\Debug\netstandard2.0\IoT.DTO.csproj.CoreCompileInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DTO\obj\Debug\netstandard2.0\IoT.DTO.csproj.CopyComplete
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DTO\obj\Debug\netstandard2.0\IoT.DTO.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DTO\obj\Debug\netstandard2.0\IoT.DTO.pdb

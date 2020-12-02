@@ -10,3 +10,15 @@
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Utils/obj/Debug/netstandard2.0/Common.Utils.csproj.CopyComplete
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Utils/obj/Debug/netstandard2.0/Common.Utils.dll
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.Utils/obj/Debug/netstandard2.0/Common.Utils.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Utils\bin\Debug\netstandard2.0\Common.Utils.deps.json
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Utils\bin\Debug\netstandard2.0\Common.Utils.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Utils\bin\Debug\netstandard2.0\Common.Utils.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Utils\bin\Debug\netstandard2.0\Common.Entities.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Utils\bin\Debug\netstandard2.0\Common.Entities.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.csprojAssemblyReference.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.AssemblyInfoInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.AssemblyInfo.cs
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.csproj.CoreCompileInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.csproj.CopyComplete
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.pdb

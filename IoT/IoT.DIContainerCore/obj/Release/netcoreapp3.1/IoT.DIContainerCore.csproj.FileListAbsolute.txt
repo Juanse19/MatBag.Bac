@@ -30,3 +30,35 @@
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DIContainerCore/obj/Release/netcoreapp3.1/IoT.DIContainerCore.csproj.CopyComplete
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DIContainerCore/obj/Release/netcoreapp3.1/IoT.DIContainerCore.dll
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DIContainerCore/obj/Release/netcoreapp3.1/IoT.DIContainerCore.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\IoT.DIContainerCore.deps.json
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\IoT.DIContainerCore.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\IoT.DIContainerCore.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\Common.DataAccess.EFCore.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\Common.DTO.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\Common.Entities.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\Common.Services.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\Common.Services.Infrastructure.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\Common.Utils.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\IoT.DataAccess.EFCore.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\IoT.DTO.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\IoT.Entities.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\IoT.Services.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\IoT.Services.Infrastructure.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\IoT.DataAccess.EFCore.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\IoT.Services.Infrastructure.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\IoT.Services.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\Common.DataAccess.EFCore.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\Common.DTO.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\Common.Entities.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\Common.Services.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\Common.Services.Infrastructure.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\Common.Utils.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\IoT.DTO.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\bin\Release\netcoreapp3.1\IoT.Entities.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\obj\Release\netcoreapp3.1\IoT.DIContainerCore.csprojAssemblyReference.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\obj\Release\netcoreapp3.1\IoT.DIContainerCore.AssemblyInfoInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\obj\Release\netcoreapp3.1\IoT.DIContainerCore.AssemblyInfo.cs
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\obj\Release\netcoreapp3.1\IoT.DIContainerCore.csproj.CoreCompileInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\obj\Release\netcoreapp3.1\IoT.DIContainerCore.csproj.CopyComplete
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\obj\Release\netcoreapp3.1\IoT.DIContainerCore.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DIContainerCore\obj\Release\netcoreapp3.1\IoT.DIContainerCore.pdb

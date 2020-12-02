@@ -24,3 +24,29 @@
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Services/obj/Debug/netstandard2.0/IoT.Services.csproj.CopyComplete
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Services/obj/Debug/netstandard2.0/IoT.Services.dll
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.Services/obj/Debug/netstandard2.0/IoT.Services.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\IoT.Services.deps.json
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\IoT.Services.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\IoT.Services.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\Common.Entities.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\Common.Services.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\Common.Services.Infrastructure.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\Common.Utils.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\IoT.DTO.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\IoT.Entities.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\IoT.Services.Infrastructure.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\Common.Services.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\IoT.Services.Infrastructure.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\Common.Entities.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\Common.Services.Infrastructure.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\Common.Utils.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\IoT.DTO.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\bin\Debug\netstandard2.0\IoT.Entities.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\obj\Debug\netstandard2.0\IoT.Services.csprojAssemblyReference.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\obj\Debug\netstandard2.0\IoT.Services.AssemblyInfoInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\obj\Debug\netstandard2.0\IoT.Services.AssemblyInfo.cs
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\obj\Debug\netstandard2.0\IoT.Services.csproj.CoreCompileInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\obj\Debug\netstandard2.0\IoT.Services.csproj.CopyComplete
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\obj\Debug\netstandard2.0\IoT.Services.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.Services\obj\Debug\netstandard2.0\IoT.Services.pdb

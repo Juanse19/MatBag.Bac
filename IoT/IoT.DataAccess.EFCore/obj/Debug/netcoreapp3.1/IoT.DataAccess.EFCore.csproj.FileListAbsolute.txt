@@ -27,3 +27,32 @@
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DataAccess.EFCore/obj/Debug/netcoreapp3.1/IoT.DataAccess.EFCore.dll
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DataAccess.EFCore/obj/Debug/netcoreapp3.1/IoT.DataAccess.EFCore.pdb
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/IoT/IoT.DataAccess.EFCore/obj/Debug/netcoreapp3.1/IoT.DataAccess.EFCore.genruntimeconfig.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\IoT.DataAccess.EFCore.deps.json
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\IoT.DataAccess.EFCore.runtimeconfig.json
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\IoT.DataAccess.EFCore.runtimeconfig.dev.json
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\IoT.DataAccess.EFCore.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\IoT.DataAccess.EFCore.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.DataAccess.EFCore.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.DTO.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.Entities.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.Services.Infrastructure.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.Utils.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\IoT.DTO.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\IoT.Entities.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\IoT.Services.Infrastructure.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.DataAccess.EFCore.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.Utils.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\IoT.Entities.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\IoT.Services.Infrastructure.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.DTO.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.Entities.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\Common.Services.Infrastructure.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\bin\Debug\netcoreapp3.1\IoT.DTO.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\obj\Debug\netcoreapp3.1\IoT.DataAccess.EFCore.csprojAssemblyReference.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\obj\Debug\netcoreapp3.1\IoT.DataAccess.EFCore.AssemblyInfoInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\obj\Debug\netcoreapp3.1\IoT.DataAccess.EFCore.AssemblyInfo.cs
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\obj\Debug\netcoreapp3.1\IoT.DataAccess.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\obj\Debug\netcoreapp3.1\IoT.DataAccess.EFCore.csproj.CopyComplete
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\obj\Debug\netcoreapp3.1\IoT.DataAccess.EFCore.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\obj\Debug\netcoreapp3.1\IoT.DataAccess.EFCore.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\IoT\IoT.DataAccess.EFCore\obj\Debug\netcoreapp3.1\IoT.DataAccess.EFCore.genruntimeconfig.cache

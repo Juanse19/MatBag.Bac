@@ -16,3 +16,21 @@
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.IdentityManagementCore/obj/Debug/netcoreapp3.1/Common.IdentityManagementCore.csproj.CopyComplete
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.IdentityManagementCore/obj/Debug/netcoreapp3.1/Common.IdentityManagementCore.dll
 /Users/sebastianlosada/Documents/netcore-iot/backend/src/Common/Common.IdentityManagementCore/obj/Debug/netcoreapp3.1/Common.IdentityManagementCore.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\bin\Debug\netcoreapp3.1\Common.IdentityManagementCore.deps.json
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\bin\Debug\netcoreapp3.1\Common.IdentityManagementCore.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\bin\Debug\netcoreapp3.1\Common.IdentityManagementCore.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\bin\Debug\netcoreapp3.1\Common.DTO.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\bin\Debug\netcoreapp3.1\Common.Entities.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\bin\Debug\netcoreapp3.1\Common.Services.Infrastructure.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\bin\Debug\netcoreapp3.1\Common.Utils.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\bin\Debug\netcoreapp3.1\Common.Entities.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\bin\Debug\netcoreapp3.1\Common.Services.Infrastructure.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\bin\Debug\netcoreapp3.1\Common.Utils.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\bin\Debug\netcoreapp3.1\Common.DTO.pdb
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\obj\Debug\netcoreapp3.1\Common.IdentityManagementCore.csprojAssemblyReference.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\obj\Debug\netcoreapp3.1\Common.IdentityManagementCore.AssemblyInfoInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\obj\Debug\netcoreapp3.1\Common.IdentityManagementCore.AssemblyInfo.cs
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\obj\Debug\netcoreapp3.1\Common.IdentityManagementCore.csproj.CoreCompileInputs.cache
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\obj\Debug\netcoreapp3.1\Common.IdentityManagementCore.csproj.CopyComplete
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\obj\Debug\netcoreapp3.1\Common.IdentityManagementCore.dll
+C:\Users\mladmin\Documents\New folder\MatBag.Backend\Common\Common.IdentityManagementCore\obj\Debug\netcoreapp3.1\Common.IdentityManagementCore.pdb
